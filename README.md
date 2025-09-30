@@ -8,8 +8,10 @@ It demonstrates the fundamentals of Unity game development — including scenes,
 
 ---
 
-## 📸 Badge & Gameplay
-[Unity Essentials Badge](pics/unity-essentials-pathway.png) -->
+## 📸 Badge 
+![Unity Essentials Badge](pics/unity-essentials-pathway.png)
+
+## Gameplay
 ![Gameplay](vids/gameplay.gif)
 
 ---
