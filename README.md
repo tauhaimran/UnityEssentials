@@ -10,7 +10,7 @@ It demonstrates the fundamentals of Unity game development — including scenes,
 
 ## 📸 Badge & Gameplay
 <img src="pics/unity-essentials-pathway.png" alt="Unity Essentials Badge" width="200"/>
-![gameplay](vids/gameplay.gif)
+[gameplay](vids/gameplay.gif)
 
 ---
 
