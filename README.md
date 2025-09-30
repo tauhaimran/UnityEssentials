@@ -12,7 +12,7 @@ It demonstrates the fundamentals of Unity game development — including scenes,
 
 <p float="left">
   <img src="pics/unity-essentials-pathway.png" alt="Unity Essentials Badge" width="200"/>
-  <img src="vids/gameplay.gif" alt="Gameplay" />
+  <img src="vids/gameplay.gif" alt="Gameplay" width="300" />
 </p>
 
 ---
